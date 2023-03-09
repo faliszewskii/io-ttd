@@ -65,5 +65,11 @@ namespace io_tests
             int result = _calculator.Add(input);
             result.Should().Be(expected);
         }
+
+        [Fact]
+        public void FailTheTest()
+        {
+            (2 + 2).Should().Be(5);
+        }
     }
 }
