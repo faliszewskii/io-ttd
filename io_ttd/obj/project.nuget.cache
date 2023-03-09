@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BLObJWSAZTxLQIO+6hyc+Zr8KbKZt8Q6L/BQa0t8PMnN+b2JDDk64i5mFdMlhS/dMyWikvmKsm+sdNITtCzpgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repositories\\io-ttd\\src\\io_ttd\\io_ttd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igorf\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\igorf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\igorf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
